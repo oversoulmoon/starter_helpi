@@ -37,7 +37,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Trung Nguyen
+          Learn React Trung Nguyen, Araf
         </a>
       </header>
       <Form>
